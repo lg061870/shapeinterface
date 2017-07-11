@@ -1,0 +1,5 @@
+d:\documents\visual studio 2015\Projects\ShapeInterface\ShapeInterface\bin\Debug\ShapeInterface.dll
+d:\documents\visual studio 2015\Projects\ShapeInterface\ShapeInterface\bin\Debug\ShapeInterface.pdb
+d:\documents\visual studio 2015\Projects\ShapeInterface\ShapeInterface\obj\Debug\ShapeInterface.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\ShapeInterface\ShapeInterface\obj\Debug\ShapeInterface.dll
+d:\documents\visual studio 2015\Projects\ShapeInterface\ShapeInterface\obj\Debug\ShapeInterface.pdb

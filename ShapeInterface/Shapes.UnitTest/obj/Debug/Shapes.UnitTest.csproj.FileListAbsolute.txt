@@ -1,0 +1,10 @@
+d:\documents\visual studio 2015\Projects\ShapeInterface\Shapes.UnitTest\bin\Debug\Shapes.UnitTest.dll
+d:\documents\visual studio 2015\Projects\ShapeInterface\Shapes.UnitTest\bin\Debug\Shapes.UnitTest.pdb
+d:\documents\visual studio 2015\Projects\ShapeInterface\Shapes.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\documents\visual studio 2015\Projects\ShapeInterface\Shapes.UnitTest\bin\Debug\ShapeImplementation.dll
+d:\documents\visual studio 2015\Projects\ShapeInterface\Shapes.UnitTest\bin\Debug\ShapeInterface.dll
+d:\documents\visual studio 2015\Projects\ShapeInterface\Shapes.UnitTest\bin\Debug\ShapeImplementation.pdb
+d:\documents\visual studio 2015\Projects\ShapeInterface\Shapes.UnitTest\bin\Debug\ShapeInterface.pdb
+d:\documents\visual studio 2015\Projects\ShapeInterface\Shapes.UnitTest\obj\Debug\Shapes.UnitTest.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\ShapeInterface\Shapes.UnitTest\obj\Debug\Shapes.UnitTest.dll
+d:\documents\visual studio 2015\Projects\ShapeInterface\Shapes.UnitTest\obj\Debug\Shapes.UnitTest.pdb
